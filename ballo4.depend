@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571147122 source:c:\users\cathe\onedrive\documents\robotics\ballo4\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<cmath>
+
